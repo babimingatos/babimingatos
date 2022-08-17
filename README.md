@@ -25,8 +25,8 @@
 <img height="26" title="Github" alt="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> &nbsp;
 <img height="26" title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> &nbsp;
 
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" height="26"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="26"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" height="26"/>  &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="26"/>  &nbsp;
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="26"/>
 
 
