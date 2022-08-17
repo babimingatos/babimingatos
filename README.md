@@ -40,4 +40,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=babimingatos&show_icons=true&locale=en&layout=compact" alt="babimingatos" /</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=babimingatos&show_icons=true&locale=en" alt="babimingatos"/></p>
