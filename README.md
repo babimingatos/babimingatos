@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm babi</h1>
 <h3 align="center">A developer motivated by the limitless power of programming.</h3>
-https://github.com/babimingatos/operadoresJava
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=babimingatos&label=Profile%20views&color=0e75b6&style=flat" alt="babimingatos" /> </p>
 
 - 🌱 I’m currently learning **Java, Java Script**
@@ -34,9 +33,7 @@ https://github.com/babimingatos/operadoresJava
 <img src="https://user-images.githubusercontent.com/72284498/185923979-8424e11f-42c4-4e44-9bd6-d69116b3fd14.png" alt="Ubuntu" height="26">
 
 
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=babimingatos&show_icons=true&locale=en&layout=compact" alt="babimingatos" /</p>
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=babimingatos&show_icons=true&locale=en&layout=compact" alt="babimingatos" />
+</p>
 
