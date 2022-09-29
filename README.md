@@ -33,7 +33,8 @@
 <img src="https://user-images.githubusercontent.com/72284498/185923979-8424e11f-42c4-4e44-9bd6-d69116b3fd14.png" alt="Ubuntu" height="26">
 
 
-<p>
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=babimingatos&show_icons=true&locale=en&layout=compact" alt="babimingatos" />
-</p>
+[![status](https://raw.githubusercontent.com/riceset/github-stats-transparent/output/generated/overview.svg)](#)
+[![languages](https://raw.githubusercontent.com/riceset/github-stats-transparent/output/generated/languages.svg)](#)
 
