@@ -35,5 +35,3 @@
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=babimingatos&show_icons=true&locale=en&layout=compact" alt="babimingatos" />
-<img align="left" src="https://raw.githubusercontent.com/babimingatos/github-stats-transparent/output/generated/overview.svg>
-
