@@ -21,7 +21,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="26"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="26"/> 
 
-
 #### <kbd>Conhecimento em: </kbd><br>
 <img height="26" title="Visual Studio Code" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> &nbsp;
 <img height="26" title="Github" alt="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> &nbsp;
@@ -31,7 +30,7 @@
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="26">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" height="26">  &nbsp;
 <img src="https://user-images.githubusercontent.com/72284498/185923979-8424e11f-42c4-4e44-9bd6-d69116b3fd14.png" alt="Ubuntu" height="26">
+<p align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=babimingatos&show_icons=true&locale=en&layout=compact" alt="babimingatos" />
+</p>
 
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=babimingatos&show_icons=true&locale=en&layout=compact" alt="babimingatos" />
