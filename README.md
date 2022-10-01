@@ -30,7 +30,8 @@
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="26">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" height="26">  &nbsp;
 <img src="https://user-images.githubusercontent.com/72284498/185923979-8424e11f-42c4-4e44-9bd6-d69116b3fd14.png" alt="Ubuntu" height="26">
-<p align="right">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=babimingatos&show_icons=true&locale=en&layout=compact" alt="babimingatos" />
-</p>
+
+
+| <a href="https://github.com/babimingatos/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=babimingatos&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="babimingatos" /></a> | <a href="https://github.com/babimingatos/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babimingatos&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
