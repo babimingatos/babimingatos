@@ -50,9 +50,9 @@
     alt="Ubuntu" height="26">
 
 
-| <a href="https://github.com/babimingatos/github-readme-stats"><img align="center"
+ <a href="https://github.com/babimingatos/github-readme-stats"><img align="center"
         src="https://github-readme-stats.vercel.app/api?username=babimingatos&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"
-        alt="babimingatos" /></a> | <a href="https://github.com/babimingatos/github-readme-stats"><img align="center"
+        alt="babimingatos" /></a> 
+        <a href="https://github.com/babimingatos/github-readme-stats"><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=babimingatos&layout=compact&theme=buefy&hide_border=true" /></a>
-|
-| ------------- | ------------- |
+
