@@ -13,7 +13,6 @@
     <a href="https://linkedin.com/in/barbara-mingatos-4a4969201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/barbara-mingatos-4a4969201/" height="30" width="40" /></a>
     <a href="https://instagram.com/babimingatos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="babimingatos" height="30" width="40" /></a>
 </p>
-
 #### <kbd>Languages:</kbd><br>
 <img height="26" title="HTML" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
 <img height="26" title="CSS" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
