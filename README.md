@@ -5,7 +5,6 @@
         alt="babimingatos" /> </p>
 
 - 🌱 I’m currently learning **Java, JavaScript**
-
 - 📫 How to reach me **barbara@mingatos.com**
 
 <h3 align="left">Connect with me:</h3>
