@@ -4,7 +4,7 @@
         src="https://komarev.com/ghpvc/?username=babimingatos&label=Profile%20views&color=0e75b6&style=flat"
         alt="babimingatos" /> </p>
 
-- 🌱 I’m currently learning **Java, JavaScript**
+- 🌱 I’m currently learning **Java and JavaScript**
 - 📫 How to reach me **barbara@mingatos.com**
 
 <h3 align="left">Connect with me:</h3>
