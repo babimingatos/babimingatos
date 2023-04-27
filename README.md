@@ -32,6 +32,3 @@
 <img src="https://user-images.githubusercontent.com/72284498/185923979-8424e11f-42c4-4e44-9bd6-d69116b3fd14.png" alt="Ubuntu" title="Ubuntu" height="26">
 
 
-  <a href="https://github.com/babimingatos/github-readme-stats"><img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=babimingatos&layout=compact&theme=buefy&hide_border=true" />
- </a>
